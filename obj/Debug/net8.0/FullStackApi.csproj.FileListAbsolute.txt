@@ -283,3 +283,4 @@ C:\Users\user\Deployment\FullStackApi\obj\Debug\net8.0\refint\FullStackApi.dll
 C:\Users\user\Deployment\FullStackApi\obj\Debug\net8.0\FullStackApi.pdb
 C:\Users\user\Deployment\FullStackApi\obj\Debug\net8.0\FullStackApi.genruntimeconfig.cache
 C:\Users\user\Deployment\FullStackApi\obj\Debug\net8.0\ref\FullStackApi.dll
+C:\Users\user\Deployment\FullStackApi\obj\Debug\net8.0\FullStackApi.sourcelink.json

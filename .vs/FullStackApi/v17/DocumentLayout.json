@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Deployment\\FullStackApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABBAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswB0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T22:25:14.869Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-30T22:22:28.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T22:22:28.749Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Controllers\\EmployeesController.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAAAAAFEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:21:46.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T22:21:46.305Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Data\\FullStackDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:20:48.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T22:20:48.79Z"
             }
           ]
         }
