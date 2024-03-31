@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k1zk7S1ZVlVkwq+1b3E2gZMdjysNS5yrOgIScJT3MEJwVXdAqrq0enc8Q8pESWD2n2c6DAdiLAGMN3w7QUfhyA==",
+  "dgSpecHash": "6BHa0fYGJPo+E5YYyFvMgEckk93pgYgU8Cjf86AQjo0LPYoSp6hHyxqD6855dOZRsRNfjLoCK2TDfcxJyZrPEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Deployment\\Backend\\FullStackApi\\FullStackApi.csproj",
+  "projectFilePath": "C:\\Users\\user\\Deployment\\FullStackApi\\FullStackApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

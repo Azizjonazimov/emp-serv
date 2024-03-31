@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 var connectionString = builder.Configuration.GetConnectionString("MongoDBConnectionString");
 var mongoClient = new MongoClient(connectionString);
-var database = mongoClient.GetDatabase("YourDatabaseName");
+var database = mongoClient.GetDatabase("fullstackapi-web-database");
 
 
 builder.Services.AddControllers();

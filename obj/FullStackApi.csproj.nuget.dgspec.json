@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Deployment\\Backend\\FullStackApi\\FullStackApi.csproj": {}
+    "C:\\Users\\user\\Deployment\\FullStackApi\\FullStackApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Deployment\\Backend\\FullStackApi\\FullStackApi.csproj": {
+    "C:\\Users\\user\\Deployment\\FullStackApi\\FullStackApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Deployment\\Backend\\FullStackApi\\FullStackApi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Deployment\\FullStackApi\\FullStackApi.csproj",
         "projectName": "FullStackApi",
-        "projectPath": "C:\\Users\\user\\Deployment\\Backend\\FullStackApi\\FullStackApi.csproj",
+        "projectPath": "C:\\Users\\user\\Deployment\\FullStackApi\\FullStackApi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Deployment\\Backend\\FullStackApi\\obj\\",
+        "outputPath": "C:\\Users\\user\\Deployment\\FullStackApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

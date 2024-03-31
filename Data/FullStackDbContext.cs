@@ -12,7 +12,7 @@ namespace FullStackApi.Data
         {
             var connectionString = config.GetConnectionString("MongoDBConnectionString");
             var client = new MongoClient(connectionString);
-            _database = client.GetDatabase("emp-serv-server");
+            _database = client.GetDatabase("fullstackapi-web-database");
 
             // Initialize the Employees collection
             Employees = _database.GetCollection<Employee>("Employees");

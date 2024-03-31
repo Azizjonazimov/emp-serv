@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FullStackApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+859177ecf676149771a761a82b12abb298760fe7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c50d111aef4adf14711532b3fff3faa140600dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("FullStackApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FullStackApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
