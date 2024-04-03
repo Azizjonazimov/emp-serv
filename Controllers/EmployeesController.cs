@@ -7,7 +7,7 @@ using MongoDB.Driver;
 namespace FullStackApi.Controllers
 {
     [ApiController]
-    [Route("api/employees")]
+    [Route("[api/employees]")]
     public class EmployeesController : Controller
     {
         private readonly FullStackDbContext _fullStackDbContext;
