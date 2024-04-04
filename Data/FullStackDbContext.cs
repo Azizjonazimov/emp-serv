@@ -1,10 +1,11 @@
-﻿using MongoDB.Driver;
+using MongoDB.Driver;
 using Microsoft.Extensions.Configuration;
 using FullStackApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace FullStackApi.Data
 {
-    public class FullStackDbContext
+    public class FullStackDbContext : DbContext
     {
         private readonly IMongoDatabase _database;
 
@@ -19,6 +20,6 @@ namespace FullStackApi.Data
         }
 
         // Define a property to access the Employees collection
-        public IMongoCollection<Employee> Employees { get; }
+        public IMongoCollection<Employee> Employees { get; set; }
     }
 }
